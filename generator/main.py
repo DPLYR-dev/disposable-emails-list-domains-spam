@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 domains = []
 URL = 'https://generator.email'
 
-repeat = 3
+repeat = 100
 
 for i in  range(repeat) :
   page = requests.get(URL)
