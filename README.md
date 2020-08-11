@@ -1,5 +1,5 @@
-# disposable-emails-list-
-Lهst of disposable emails providers.
+# disposable-emails-list-domains-spam
+List of disposable emails providers.
 So you can prevent them on your website
 
 
