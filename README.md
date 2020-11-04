@@ -13,7 +13,6 @@ So you can prevent them on your website
 - Run the main.py file after downloading the dependencies
 - Vowalaaa, you've contributed in making the world a better place by blocking spammers from entering the website
 
-
 ### All Supported Projects by [DPLYR](https://dplyr.dev)
 * [Splash Screen - Flutter](https://github.com/DPLYR-dev/SplashScreenFlutterPackage)
   <br> a flutter package created to show simple splashscreen
@@ -32,6 +31,12 @@ So you can prevent them on your website
   
 * [Disposable Emails List](https://github.com/DPLYR-dev/disposable-emails-list-domains-spam)
   <br> a python script to generate the temporary and spam doamins to prevent them and you can block them through this API [Block temp mails](https://github.com/DPLYR-dev/block-temp-emails)
+
+* [Basic CRM](https://github.com/DPLYR-dev/basic-crm)
+  <br> A crm that is developed with Node Js for entreprenurs who need a basic CRM with text replacment feature
+  
+* [Basic Finance](https://github.com/DPLYR-dev/basic-finance)
+  <br> A finance that is developed with Node Js
 
 ### About DPLYR
 [DPLYR](https://www.dplyr.dev) is a SaaS tool that helps developers just like you to deploy their web apps more easily. It supports deploying Node.js apps with MongoDB, MySQL or PostgreSQL databases all for free. Go now  to [www.dplyr.dev](https://www.dplyr.dev) and create a free account.
